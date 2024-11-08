@@ -1,2 +1,3 @@
 # single_cycle_CPU
-컴퓨터구조개론의 과제를 해결하며 기록한 Verilog 코드들
+컴퓨터구조개론에서 배운 개념을 바탕으로 만든
+기초적인 Single Cycle CPU의 Verilog 코드들
